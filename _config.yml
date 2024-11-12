@@ -14,16 +14,16 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Retr0Lovelace # the main title
+title: Retr0 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: wannnabe pentester / redteamer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://retr0lovelace.github.io/"
+url: "https://retr0lovelace.github.io"
 
 github:
   username: Retr0Lovelace # change to your github username
@@ -42,7 +42,7 @@ social:
     - https://github.com/Retr0Lovelace # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/bmfrancisco/
 
 google_site_verification: # fill in to your verification string
 
